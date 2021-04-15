@@ -1,3 +1,16 @@
+**Project Features:**
+- Mobile support, Responsive Design  
+- MongoDB
+- Express
+- Express router
+- TypeScript
+- Material-UI
+- Styled-components
+- React Hooks
+- React functional components
+- Global State management (React Context API)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
