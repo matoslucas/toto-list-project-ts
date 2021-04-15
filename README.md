@@ -10,6 +10,17 @@
 - React functional components
 - Global State management (React Context API)
 
+## To run the Client server
+
+1. run `yarn install`
+2. run `yarn start`
+
+## To run the Node Server (API)
+
+1. run `cd server` 
+2. run `yarn install`
+3. run `yarn dev`
+
 
 # Getting Started with Create React App
 
