@@ -8,7 +8,7 @@
 - Styled-components
 - React Hooks
 - React functional components
-- Global State management (React Context Rest API)
+- Global State management (React Context API)
 
 ## To run the Client server
 
